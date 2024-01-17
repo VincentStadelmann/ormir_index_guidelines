@@ -6,7 +6,7 @@ The ORMIR Image Data Index
 
 The *Open and Reproducible Musculoskeletal Imaging Research* (ORMIR) community is an international cooperative of musculoskeletal imaging research scientists who aim to promote a culture of openness and reproducibility in MSK imaging research through development of open and reproducible software, development of standardized acquisition and analysis workflows, and promotion of open data sharing practices.
 
-The ORMIR Image Data Index is a member-curated repository of metadata from musculoskeletal imaging research studies. Central to the development of this resource are core guidelines essential to responsible data sharing, including:
+The ORMIR Image Data Index is a member-curated repository of metadata from musculoskeletal imaging research studies currently under development. Central to the development of this resource are core guidelines essential to responsible data sharing, including:
 
 1.  Resources and examples of informed consent language used to prospectively acquire consent for data sharing
 
@@ -16,4 +16,6 @@ The ORMIR Image Data Index is a member-curated repository of metadata from muscu
 
 4.  Resources and guidelines for data de-identification
 
-5.  Description of meta-data that can be submitted to the ORMIR Image Data Index
+5.  Description of meta-data that can be submitted to the planned ORMIR Image Data Index
+
+These core elements will be included in this book, as they become available.

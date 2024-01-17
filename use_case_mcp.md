@@ -18,17 +18,13 @@ The platform would be a a website with 4 main features:
 
 The listing page would be simply a dynamic table.
 
-+----------------------+----------------+-------------+---------+-----------------+------------------------+------------------+
-| **Project acronym,** | **PI (owner)** | **Country** | **XCT** | **Sample size** | **Patient population** | **License Type** |
-+----------------------+----------------+-------------+---------+-----------------+------------------------+------------------+
-| CLG                  | SK Boyd        | CAN         | XT1     | 17 x 2          | 10 hands (4 RA)        | NA               |
-+----------------------+----------------+-------------+---------+-----------------+------------------------+------------------+
-| LYN                  | S Boutroy      | FR          | XT1     |                 | 12 hands               | NA               |
-+----------------------+----------------+-------------+---------+-----------------+------------------------+------------------+
-| SFR                  | A Burghardt    | USA         | XT1     |                 | 10 hands               | NA               |
-+----------------------+----------------+-------------+---------+-----------------+------------------------+------------------+
-| STVI                 | V Stadelmann   | CH          | XT2     | 1               | 1 healthy hand         | CC BY-NC         |
-+----------------------+----------------+-------------+---------+-----------------+------------------------+------------------+
+|                     |                |             |         |                 |                        |                  |
+|---------------------|----------------|-------------|---------|-----------------|------------------------|------------------|
+| **Project acronym** | **PI (owner)** | **Country** | **XCT** | **Sample size** | **Patient population** | **License Type** |
+| CLG                 | S Manske       | CAN         | XT1     | 17 x 2          | 10 hands (4 RA)        | NA               |
+| LYN                 | S Boutroy      | FR          | XT1     |                 | 12 hands               | NA               |
+| SFR                 | A Burghardt    | USA         | XT1     |                 | 10 hands               | NA               |
+| STVI                | V Stadelmann   | CH          | XT2     | 1               | 1 healthy hand         | CC BY-NC         |
 
 \
 Each row is clickable, with the link directing to the
