@@ -67,10 +67,12 @@ This is my hand and I have scanned it many times with XT1 and XT2 as testing mat
 
 **Publication(s) related:**
 
--   {cite}`Stok2020`
+-   Stok KS, Burghardt AJ, Boutroy S, Peters MPH, Manske SL, Stadelmann V, Vilayphiou N, Bergh JP van den, Geusens P, Li X, Marotte H, Rietbergen B van, Boyd SK, Barnabe C (2020) *Quant. Imaging Med. Surg.*, 10(2) <https://doi.org/10.21037/qims.2019.12.11>
 
 **Data access:**
 
 -   **License: CC BY-NC**
 
--   **Access instructions:** Send request at: [vincent.stadelmann\@kws.ch](mailto:vincent.stadelmann@kws.ch)
+-   **Cite:** Stadelmann, V. (2024). HRpQCT Hand MCP for JWS. Zenodo. doi: [10.5281/zenodo.10522673](https://doi.org/10.5281/zenodo.10522673)
+
+-   **Access instructions:** download at <https://doi.org/10.5281/zenodo.10522673>
