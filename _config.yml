@@ -19,6 +19,17 @@ execute:
 # bibtex_bibfiles:
 #   - references.bib
 
+# Specify the list of extensions to use
+markdown_extensions:
+  - myst_parser
+
+# Configure the Myst extension
+myst_enable_extensions:
+  - colon_fence
+  - deflist
+  - tasklist
+  - toc
+
 # Information about where the book exists on the web
 repository:
   url: https://github.com/ORMIRcommunity/ormir_index_guidelines  # Online location of your book
@@ -30,3 +41,5 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+
+
