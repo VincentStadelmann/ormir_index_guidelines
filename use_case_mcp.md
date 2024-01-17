@@ -65,6 +65,9 @@ This is my hand and I have scanned it many times with XT1 and XT2 as testing mat
 
 **Additional information:**
 
+-   Data sharing agreement required: no
+
+
 **Publication(s) related:**
 
 -   {cite}`Stok2020`
