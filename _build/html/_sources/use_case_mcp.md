@@ -1,4 +1,4 @@
-# Spectra Finger joints HRpQCT Data Sharing Platform
+# Spectra Finger Joints HRpQCT Data Sharing Platform
 
 Inspired by <https://fcon_1000.projects.nitrc.org/indi/IndiRetro.html>
 
@@ -64,6 +64,9 @@ This is my hand and I have scanned it many times with XT1 and XT2 as testing mat
 -   Disease status
 
 **Additional information:**
+
+-   Data sharing agreement required: no
+
 
 **Publication(s) related:**
 
