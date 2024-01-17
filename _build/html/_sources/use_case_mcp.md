@@ -1,4 +1,4 @@
-# Spectra Finger Joints HRpQCT Data Sharing Platform
+# Use case - Template for Sharing HRpQCT Rheumatoid Arthritis Data
 
 Inspired by <https://fcon_1000.projects.nitrc.org/indi/IndiRetro.html>
 
