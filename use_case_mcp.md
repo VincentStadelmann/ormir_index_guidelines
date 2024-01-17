@@ -1,4 +1,4 @@
-# Spectra Finger joints HRpQCT Data Sharing Platform
+# Spectra Finger Joints HRpQCT Data Sharing Platform
 
 Inspired by <https://fcon_1000.projects.nitrc.org/indi/IndiRetro.html>
 
